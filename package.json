@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/talitamunchen/distribuited-database#readme",
   "dependencies": {
+    "dotenv": "^5.0.1",
     "uuid": "^3.2.1"
   }
 }
